@@ -1,3 +1,4 @@
-# Edit this file to output "Welcome to Tic Tac Toe!"
+puts"welcome to tic tac toe!"
+"
 # You can see what this file does by running:
 # ruby lib/welcome.rb from your terminal.
